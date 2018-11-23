@@ -1,0 +1,11 @@
+/Users/aluno/Projects/avaliacao05_locadora/avaliacao05_locadora/obj/Debug/netcoreapp2.1/avaliacao05_locadora.csprojAssemblyReference.cache
+/Users/aluno/Projects/avaliacao05_locadora/avaliacao05_locadora/obj/Debug/netcoreapp2.1/avaliacao05_locadora.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/avaliacao05_locadora/avaliacao05_locadora/obj/Debug/netcoreapp2.1/avaliacao05_locadora.AssemblyInfoInputs.cache
+/Users/aluno/Projects/avaliacao05_locadora/avaliacao05_locadora/obj/Debug/netcoreapp2.1/avaliacao05_locadora.AssemblyInfo.cs
+/Users/aluno/Projects/avaliacao05_locadora/avaliacao05_locadora/bin/Debug/netcoreapp2.1/avaliacao05_locadora.deps.json
+/Users/aluno/Projects/avaliacao05_locadora/avaliacao05_locadora/bin/Debug/netcoreapp2.1/avaliacao05_locadora.runtimeconfig.json
+/Users/aluno/Projects/avaliacao05_locadora/avaliacao05_locadora/bin/Debug/netcoreapp2.1/avaliacao05_locadora.runtimeconfig.dev.json
+/Users/aluno/Projects/avaliacao05_locadora/avaliacao05_locadora/bin/Debug/netcoreapp2.1/avaliacao05_locadora.dll
+/Users/aluno/Projects/avaliacao05_locadora/avaliacao05_locadora/bin/Debug/netcoreapp2.1/avaliacao05_locadora.pdb
+/Users/aluno/Projects/avaliacao05_locadora/avaliacao05_locadora/obj/Debug/netcoreapp2.1/avaliacao05_locadora.dll
+/Users/aluno/Projects/avaliacao05_locadora/avaliacao05_locadora/obj/Debug/netcoreapp2.1/avaliacao05_locadora.pdb

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3D437A1C-E86B-46B1-B85C-A974542AFFE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="avaliacao05_locadora/Program.cs">
+    <Files>
+      <File FileName="avaliacao05_locadora/Program.cs" Line="9" Column="28" />
+      <File FileName="avaliacao05_locadora/Veiculo.cs" Line="10" Column="9" />
+      <File FileName="avaliacao05_locadora/Carro.cs" Line="4" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.avaliacao05__locadora PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
